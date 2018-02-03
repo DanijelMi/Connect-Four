@@ -1,0 +1,9 @@
+4#JOjo#11#MOCC#5#2#8#1234567#                            X X X XO_O_O_O
+5#JOjo#11#MOCC#5#2#11#1234567#                       O    XXX X XOOO_O_O
+2#id#6#vp#10#2#3#1234567#                       O      X O  XOOOXX_
+3#de#9#re#5#1#7#1234567#                            OX X   OXOX___
+6#JOjo#11#MOCC#5#1#11#1234567#                       O    OXX O  XOXXOX_
+7#Da#6#Reka#11#2#6#1034567# X      O      X      O      X     _O_____
+8#casa#12#flasa#1634951523#2#12#1234567#                     OX OX  OX OX  OX_OX__
+9#0#6#3#5#1#12#1234567#              XO     OXO    XOX    OXXO___
+10#da#9#ne#6#2#0#1234567#                                   _______

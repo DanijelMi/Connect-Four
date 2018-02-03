@@ -1,0 +1,9 @@
+jedan
+dva
+tri
+cetri
+pet
+sest
+sedam
+osam
+devet

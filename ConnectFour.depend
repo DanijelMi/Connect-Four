@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516895346 source:e:\work\collegeworks\codeblocks\finals\connectfour\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
